@@ -1,4 +1,4 @@
 # Fuzzyskull
 Project 100-2020
-
-commit #2 - testing for pull request.
+=======
+Hello, World. This is my first official GitHub repository. Just testing things out here - more later.
