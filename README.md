@@ -1,4 +1,4 @@
 # Fuzzyskull
-Project 100-2020
+Specialty Drinks Website, API, and Database files
 =======
-Hello, World. This is my reposity for my personal portfolio. 
+
